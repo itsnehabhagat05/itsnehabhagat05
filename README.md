@@ -1,6 +1,12 @@
 <h1 align="center"> Hi, I am Neha Bhagat.:wave: </h1>
 <h1 align="center">GREAT TO SEE YOU HERE !! </h1>
 
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
 <p align="left"> <a href="https://twitter.com/Bhagat_Neha05" target="blank"><img src="https://img.shields.io/twitter/follow/Bhagat_Neha05?logo=twitter&style=for-the-badge" alt="Bhagat_Neha05" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA**.
