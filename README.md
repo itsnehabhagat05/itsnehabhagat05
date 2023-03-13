@@ -34,4 +34,4 @@ I’m currently learning JAVA☕  C  and  exploring Flutter-Cross Platform appli
 
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha05bhagat&show_icons=true&locale=en" alt="neha05bhagat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnehabhagat05&show_icons=true&locale=en" alt="itsnehabhagat05" /></p>
