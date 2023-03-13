@@ -13,26 +13,24 @@
 <p align="center">I am a CSE'26 undergrad student.</p>
 <p align="center">I am very passionate about improving my coding skill and development.
 I’m currently learning JAVA☕  C  and  exploring Flutter-Cross Platform application 📱💻.</p>
-                              
-       
-       
+<br>
+
 - 📫 How to reach me: **nehabhagat873@gmail.com**
+<br>
 
-
-### Feel free to connect with me here:
+## 🌐Socials (Feel free to connect with me here):
 
 <a href="https://www.instagram.com/neha_bhagat2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha_bhagat2004" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/neha-bhagat2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Neha Bhagat" height="30" width="40" /></a>
 <a href="https://twitter.com/Bhagat_Neha05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bhagat_Neha05" height="30" width="40" /></a>
 
-
-
-
+<br>
+<br>
 <h3 align="left">LANGUAGES AND TOOLS:</h3>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 
 
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha05bhagat&show_icons=true&locale=en" alt="neha05bhagat" /></p>
